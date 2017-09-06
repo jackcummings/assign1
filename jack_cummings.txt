@@ -1,0 +1,28 @@
+Full Name:	Jack Cummings
+E-Mail:		jack.cummings@umontana.edu
+Phone:		(406) 493-7692
+About Me:	I have recently finished an Associate's Degree in Information Technology and am continuing forth with my Bachelor's Degree in Computer Science.  I was born in Helena, Montana and moved to Missoula in 2008.  I am married and have two kids (6 & 16), and am really enjoying the chance I have to go back to school.
+
+Weekly Schedule:
+
+Monday: 
+Data Structures & Algorithms	--	10A-11A
+Intro to Discrete Math 		--	12P-1P
+Principles of Living Systems	-- 	1P-2P
+
+Tuesday:
+Software Science		--	9:30A-11A
+
+Wednesday:
+Data Structures & Algorithms	--	10A-11A
+Intro to Discrete Math 		--	12P-1P
+Principles of Living Systems	-- 	1P-2P
+
+Thursday:
+Software Science		--	9:30A-11A
+Principles of Living Systems_LAB--	12P-2P
+
+Friday:
+Intro to Discrete Math 		--	12P-1P
+Principles of Living Systems	-- 	1P-2P
+Data Structures & Algorithms_LAB--	3P-5P
