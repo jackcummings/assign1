@@ -27,3 +27,5 @@ calc 11 - 11:50
 discrete 12 - 12:50
 computer ethics 2 - 2:50
 	
+Signed,
+Jack Cummings
