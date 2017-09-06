@@ -1,0 +1,33 @@
+Full Name:		Scott McKay
+Email Address:	scott.mckay@umontana.edu
+Phone Number:	(503)-593-0476
+	Note: 		This phone number will September 12th, I do not intend on renewing the plan.
+About Me:
+				Casual biking, walking, and hiking are pastimes that I enjoy very much.
+				I'm twenty-two years old, and I hate writing numbers in paragraphs.
+				I love eating, which is why I wish Sovngarde was an actual place. 
+				Despite having played Minecraft since high school, I still love it.
+				I'm was born in Missoula, MT.
+				
+My weekly schedule is:
+
+MONDAY:
+CSCI 232-00     [Data Structures & Algorithms]:     10:00 - 10:50 a.m.
+M 171-03        [Calculus I]:                       11:00 - 11:50 a.m.
+
+TUESDAY:
+CSCI 323-01     [Software Science]:                 9:30 - 10:50 a.m.
+M 171-03        [Calculus I]:                       11:00 - 11:50 a.m.
+PSYX 100S-01    [Intro. to Psychology]:             12:30 - 1:50 p.m.
+
+WEDNESDAY:
+CSCI 232-00     [Data Structures & Algorithms]:     10:00 - 10:50 a.m.
+M 171-03        [Calculus I]:                       11:00 - 11:50 a.m.
+CSCI 232-01     [Data Stuctures & Algo. Lab]:       1:00 - 2:50 p.m.
+
+THURSDAY:
+CSCI 323-01     [Software Science]:                 9:30 - 10:50 a.m.
+PSYX 100S-01    [Intro. to Psychology]:             12:30 - 1:50 p.m.
+
+FRIDAY:
+M 171-03        [Calculus I]:                       11:00 - 11:50 a.m.
