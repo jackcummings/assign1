@@ -28,3 +28,4 @@ Principles of Living Systems	-- 	1P-2P
 Data Structures & Algorithms_LAB--	3P-5P
 
 Dan Bailey
+Jacob Wolfe
