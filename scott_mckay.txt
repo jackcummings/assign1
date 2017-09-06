@@ -35,3 +35,4 @@ M 171-03        [Calculus I]:                       11:00 - 11:50 a.m.
 Signed,
 Dan Bailey	
 Jack Cummings
+Jacob Wolfe
