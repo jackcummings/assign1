@@ -32,3 +32,6 @@ Jack Cummings
 
 Signed,
 Jacob Wolfe
+
+Signed,
+Scott McKay
